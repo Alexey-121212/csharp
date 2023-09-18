@@ -1,0 +1,15 @@
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\bin\Debug\net6.0\HW_CONSOLE.exe
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\bin\Debug\net6.0\HW_CONSOLE.deps.json
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\bin\Debug\net6.0\HW_CONSOLE.runtimeconfig.json
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\bin\Debug\net6.0\HW_CONSOLE.dll
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\bin\Debug\net6.0\HW_CONSOLE.pdb
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.csproj.AssemblyReference.cache
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.AssemblyInfoInputs.cache
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.AssemblyInfo.cs
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.dll
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\refint\HW_CONSOLE.dll
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.pdb
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\HW_CONSOLE.genruntimeconfig.cache
+C:\Users\alexey\OneDrive\EDU\C#\HW_CONSOLE\obj\Debug\net6.0\ref\HW_CONSOLE.dll
